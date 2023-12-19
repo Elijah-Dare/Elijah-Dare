@@ -2,7 +2,7 @@
 - 👀 I’m interested Python software development
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on different projects like data analytics, web development and data science.
-- 📫 How to reach me: Email; agboladeelijah05@gmail.com, Whatsapp no: 08063547767, linkden profile: www.linkedin.com/in/elijah-dare-84a908206
+- 📫 How to reach me: Email; agboladeelijah05@gmail.com, Whatsapp no: +2348063547767 or +2349090331708, linkden profile: www.linkedin.com/in/elijah-dare-84a908206
 
 <!---
 Elijah-Dare/Elijah-Dare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
